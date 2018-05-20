@@ -25,7 +25,7 @@
 
 * The app should show the number of games you have won and lost. To that end, do not refresh the page as a means to restart the game.
 
-## GitHub Repo: https://lponder82.github.io/CrystalCollector/
+## GitHub Repo: https://lablancaponder.github.io/CrystalCollector/
 
 
 
